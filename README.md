@@ -102,3 +102,5 @@ their absence!''
 “The question of whether computers can think is like the question of whether submarines can swim.” 
 <br>
 — Edsger W. Dijkstra</b>
+
+input new python programs by thori
